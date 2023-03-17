@@ -69,7 +69,7 @@ function Login() {
               Login with Google
             </button>
             <div className="font-medium text-center">
-             Don't have an account? <Link className="font-bold underline decoration-wavy" to="/register">Register</Link>
+              Don't have an account? <Link className="font-bold underline decoration-wavy" to="/register">Register</Link>
             </div>
           </div>
         </div>

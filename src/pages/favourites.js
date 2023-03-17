@@ -35,8 +35,6 @@ function Favourites() {
     }
   };
 
-
-
   useEffect(() => {
     if (loading) return;
     if (!user) return navigate("/");

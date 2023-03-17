@@ -49,8 +49,6 @@ export default function List() {
     }
   };
 
-  // console.log(favourites);
-
   return (
     <div>
       <div className="mt-6 flow-root">

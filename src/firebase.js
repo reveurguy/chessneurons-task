@@ -1,13 +1,3 @@
-// const firebaseConfig = {
-//   apiKey: "AIzaSyCwpSq_BDT1et7uxCgMVp9G-FpiC2fy_o0",
-//   authDomain: "chessneurons-9f3ce.firebaseapp.com",
-//   projectId: "chessneurons-9f3ce",
-//   storageBucket: "chessneurons-9f3ce.appspot.com",
-//   messagingSenderId: "604478456362",
-//   appId: "1:604478456362:web:ecc140f61e413915eeb953",
-//   measurementId: "G-QEM5TL8J37"
-// };
-
 import { initializeApp } from "firebase/app";
 import {
   GoogleAuthProvider,
